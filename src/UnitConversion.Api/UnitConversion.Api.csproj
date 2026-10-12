@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\UnitConversion.Business\UnitConversion.Business.csproj" />
+    <ProjectReference Include="..\UnitConversion.Repository\UnitConversion.Repository.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\UnitConversion.Repository\UnitConversion.Repository.csproj" />
+  </ItemGroup>
+</Project>
